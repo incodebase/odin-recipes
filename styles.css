@@ -1,11 +1,10 @@
 .heading {
     background-color: rgb(255,0,0);
     color: hsl(0, 0%, 100%);
-    text-align: center;
 }
 
 .list {
-    text-align: center;
+    font-size: 28px;
 }
 
 .dal {
@@ -23,6 +22,38 @@
     color: white;
 }
 
-.font {
+.general {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.img-dal {
+    height: auto;
+    width: 400px;
+}
+
+.img-chicken {
+    height: auto;
+    width: 600px;
+}
+
+.img-palak {
+    height: auto;
+    width: 400px;
+}
+
+.content {
+    font-size: 28px;
+}
+
+.colour-emphasis-dal {
+    color: rgb(200, 91, 40);
+}
+
+.colour-emphasis-butterchicken {
+    color: #ff5e00;
+}
+
+.colour-emphasis-palak {
+    color: green;
 }
