@@ -3,10 +3,6 @@
     color: hsl(0, 0%, 100%);
 }
 
-.list {
-    font-size: 28px;
-}
-
 .dal {
     background-color: rgb(200, 91, 40);
     color: hsl(0, 0%, 100%);
@@ -27,7 +23,7 @@
     text-align: center;
 }
 
-.img-dal {
+.img-dal,.img-palak {
     height: auto;
     width: 400px;
 }
@@ -35,11 +31,6 @@
 .img-chicken {
     height: auto;
     width: 600px;
-}
-
-.img-palak {
-    height: auto;
-    width: 400px;
 }
 
 .content {
