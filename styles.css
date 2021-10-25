@@ -37,6 +37,10 @@
     font-size: 28px;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .colour-emphasis-dal {
     color: rgb(200, 91, 40);
 }
